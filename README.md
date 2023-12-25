@@ -1,5 +1,5 @@
-blocks.github.io
+BlocksMC Staffs
 
-Those names are used for staff detector for BlocksMC
+Those Staff names are used for staff detector for BlocksMC
 
 (you can use it because i always update names)
